@@ -1,23 +1,23 @@
-1. Nama   : Ryandhika
-   NIM    : A11.2021.13498
-   JK     : Laki - Laki
-   Agama  : Islam
-   TTL    : Kudus, 29 Maret 2003
+1. Nama   : Ryandhika<br>
+   NIM    : A11.2021.13498<br>
+   JK     : Laki - Laki<br>
+   Agama  : Islam<br>
+   TTL    : Kudus, 29 Maret 2003<br><br>
  
-2. Nama   : Tita
-   NIM    : A11.2021.13579
-   JK     : Perempuan
-   Agama  : Islam
-   TTL    : Grobogan, 16 Juni 2003
+2. Nama   : Tita<br>
+   NIM    : A11.2021.13579<br>
+   JK     : Perempuan<br>
+   Agama  : Islam<br>
+   TTL    : Grobogan, 16 Juni 2003<br><br>
  
-3. Nama   : Ferris
-   NIM    : A11.2021.12345
-   JK     : Perempuan
-   Agama  : Islam
-   TTL    : Grobogan, 16 Juni 2003
+3. Nama   : Ferris<br>
+   NIM    : A11.2021.12345<br>
+   JK     : Perempuan<br>
+   Agama  : Islam<br>
+   TTL    : Grobogan, 16 Juni 2003<br><br>
  
-4. Nama   : Bintang
-   NIM    : A11.2021.54321
-   JK     : Laki - Laki
-   Agama  : Islam
-   TTL    : Kudus, 29 Maret 2003
+4. Nama   : Bintang<br>
+   NIM    : A11.2021.54321<br>
+   JK     : Laki - Laki<br>
+   Agama  : Islam<br>
+   TTL    : Kudus, 29 Maret 2003<br>
